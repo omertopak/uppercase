@@ -2,7 +2,7 @@
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 # JS-CC-06 : Capital Letters
-
+Live link : https://omertopak.github.io/uppercase/
 The purpose of this coding challenge is to capitalize the first letter of each word in the given long text.
 
 
